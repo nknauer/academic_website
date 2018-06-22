@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicholas Knauer on Nicholas Knauer</title>
+    <link>/</link>
+    <description>Recent content in Nicholas Knauer on Nicholas Knauer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts to Come....</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Wed, 20 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Recommendation Algorithm - Apriori</title>
+      <link>/publication/person-re-identification/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/person-re-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data Science Conference - East</title>
+      <link>/talk/example-talk2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/example-talk2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data Science Conference - East</title>
+      <link>/talk/example-talk3/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/example-talk3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data Science Conference - West</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/example-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering Spotify Song Attributes Shiny App</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tweet Sentiment Rank of Artists&#39; New Released Songs</title>
+      <link>/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open*Mart Transaction History Analysis Using Only R</title>
+      <link>/publication/clothing-search/</link>
+      <pubDate>Fri, 16 May 2014 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/clothing-search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

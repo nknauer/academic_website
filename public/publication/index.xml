@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Nicholas Knauer</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Nicholas Knauer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Recommendation Algorithm - Apriori</title>
+      <link>/publication/person-re-identification/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/person-re-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open*Mart Transaction History Analysis Using Only R</title>
+      <link>/publication/clothing-search/</link>
+      <pubDate>Fri, 16 May 2014 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/clothing-search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
