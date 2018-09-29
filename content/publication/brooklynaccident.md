@@ -1,6 +1,6 @@
 +++
-title = "Accident Reduction Rate "
-date = 2017-03-01T00:00:00
+title = "Brooklyn Plan for Accident Reduction"
+date = 2018-09-28T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["N Knauer"]
@@ -17,12 +17,12 @@ authors = ["N Knauer"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-#publication = "In *Signal Image Technology & Internet Systems (SITIS)*, IEEE."
+publication = "*NYPD Motor Vehicle Collisions Dataset*, Knauer Consulting"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
-abstract = "This is an algorithm I implemented using R to align Optimatic's buyers with the appropriate placement/publisher."
-abstract_short = ""
+abstract = "The purpose of this study is to develop a plan to reduce accidents in Brooklyn through the utilization of public data. Data Source: https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95"
+abstract_short = "The purpose of this study is to develop a plan to reduce accidents in Brooklyn through the utilization of public data. Data Source: https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -55,7 +55,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "brooklyn.jpg"
 caption = ""
 
 +++
