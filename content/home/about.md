@@ -36,12 +36,11 @@ weight = 5
 
 # About Me
 
-I am currently the Senior Analyst in the Advanced Analytics department at Zenith Media within Publicis Media. At Publicis Media, I have worked on projects pertaining to optimal frequency, media mix modeling, market basket analysis, optimal sample size selection for A/B Testing, and automation of reporting in R across multiple partners. 
+I provide consulting in R, specifically in marketing analytics. The consulting services can range from someone who has never used R before to someone is looking to utilize R for strategy in the marketing space. 
+I am currently a Senior Analyst on the Performance Marketing team at Disney Streaming Services. My role is to help with with the attribution aspect of the business specifically with ESPN+ and Disney+.   
 
-Along with working at Publicis, I provide consulting for R-training. 
+I worked previously for companies such as Publicis Media and Optimatic Media (acq. by Matomy in 2015)
 
-Before working at Publicis, I was a member of the Laboratory of Intelligent Systems and Analytics ran by Dr. Soundar Kumara for 2 years at Penn State. I worked on cluster analysis on consumers in retail using R. I also worked with a Ph.D student on social network analysis on chemotherapy data for his thesis.
+At Penn State, I was a member of the Laboratory of Intelligent Systems and Analytics ran by Dr. Soundar Kumara for 2 years at Penn State. I worked on cluster analysis on consumers in retail using R. I also worked with a Ph.D student on social network analysis on chemotherapy data for his thesis.
 
-I then worked as a Business Analyst for a start-up AdTech company, Optimatic Media, that later was acquired by Matomy Media, an Israeli-based SSP.  
-
-I enjoy traveling, camping, running, lifting, reading, blogging, playing poker, and spending quality time with friends & family. This platform seems like it would be a great opportunity to also post content related to the AI/Machine Learning industry in my "Posts" section. Hope everyone enjoys and feel free to reach out.    
+I am happy to help out where I can.
